@@ -1,7 +1,7 @@
 # My Open Source Contributions
 Here, you can see the contributions made by me to Open-source Repositories on Github during various fests.<br/>
 
-## <img src="https://user-images.githubusercontent.com/94428262/206864629-66f46d6f-c00b-491a-9b24-0b8c345d8774.png" width="20" height="20" /> Hacktoberfest 2022
+## <img src="https://user-images.githubusercontent.com/94428262/206864629-66f46d6f-c00b-491a-9b24-0b8c345d8774.png" width="40" height="40" /> Hacktoberfest 2022
 || Repository | Pull Request|
 |---|------------|-------------|
 |1.|FunwithScience|[Added the solution](https://github.com/Tech-N-Science/FunwithScience/pull/704)||
