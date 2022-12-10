@@ -7,3 +7,4 @@ Here, you can see the contributions made by me to Open-source Repositories in Ha
 |2.|todo-list|[Allow marking multiple tasks as completed by holding SHIFT](https://github.com/mnosov622/todo-list/pull/30)| 
 |3.|SnakeGame|[Added instruction on "How to Play"](https://github.com/devsargam/SnakeGame/pull/56)|
 |4.|html.org.in|[Added HTML Links documentation](https://github.com/Diptenusarkar/html.org.in/pull/28)|
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
