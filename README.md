@@ -8,6 +8,7 @@ Here, you can see the contributions made by me to Open-source Repositories on Gi
 |2.|todo-list|[Allow marking multiple tasks as completed by holding SHIFT](https://github.com/mnosov622/todo-list/pull/30)| 
 |3.|SnakeGame|[Added instruction on "How to Play"](https://github.com/devsargam/SnakeGame/pull/56)|
 |4.|html.org.in|[Added HTML Links documentation](https://github.com/Diptenusarkar/html.org.in/pull/28)|
+|5.|todo-list|[Fix the Logo Link to the website](https://github.com/mnosov622/todo-list/pull/18)|
 - - -
 <br/>
 <br/>
