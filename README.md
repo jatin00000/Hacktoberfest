@@ -19,4 +19,5 @@ Here, you can see the contributions made by me to Open-source Repositories on Gi
 |---|------------|-------------|
 |1.|Ambulance-tracker|[Meta title Changed](https://github.com/Yaswanth820/Ambulance-tracker/pull/30)|
 |2.|Play-With-Python|[Guess the Number Game](https://github.com/World-of-ML/Play-With-Python/pull/118)|
+|3.|EventListing|[Updated events UI design](https://github.com/infinity1729/EventListing/pull/11)|
 - - -
