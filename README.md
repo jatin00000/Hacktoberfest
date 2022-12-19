@@ -21,4 +21,6 @@ Here, you can see the contributions made by me to Open-source Repositories on Gi
 |2.|Play-With-Python|[Guess the Number Game](https://github.com/World-of-ML/Play-With-Python/pull/118)|
 |3.|EventListing|[Updated events UI design](https://github.com/infinity1729/EventListing/pull/11)|
 |4.|RealTime-TwitterDataAnalysis|[Badges for Tech Stack and Domain](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/pull/25#event-8053843174)|
+|5.|Play-With-Python|[Image Grayscalling](https://github.com/World-of-ML/Play-With-Python/pull/124)|
+|6.|Ambulance-tracker|[Updated README.md](https://github.com/Yaswanth820/Ambulance-tracker/pull/31)|
 - - -
